@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MazuttiGuilherme
 - 👀 I’m interested in code, technology, code, life, coffee and everything...
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on DataGrupo. it is a development startup that produces system and solutions for the market.
+- 💞️ I’m looking to collaborate on DataGrupo. It is a development startup that produces systems and software solutions for the market.
 - 📫 How to reach me mazuttimail@gmail.com
 - I am also actively looking for a job/internship in Rio. My specialty includes Web and Mobile development.
 
