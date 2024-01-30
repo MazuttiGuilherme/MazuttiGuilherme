@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MazuttiGuilherme
-- 👀 I’m interested in code, technology, jiu-jitsu, life, coffee and everything...
-- 🌱 I’m currently learning Angular and React
-- 📫 How to reach me mazuttimail@gmail.com
-- I am also actively looking for a job/internship in Rio. My specialty includes Web and Mobile development.
+# React + Vite
 
-<!---
-MazuttiGuilherme/MazuttiGuilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
