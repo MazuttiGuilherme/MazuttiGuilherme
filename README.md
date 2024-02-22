@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Angular and React
 - 📫 How to reach me mazuttimail@gmail.com
 - I am also actively looking for a job/internship in Rio. My specialty includes Web and Mobile development.
-###
 
 <h2 align="left">I code with</h2>
 
