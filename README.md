@@ -4,18 +4,9 @@
 - 🌱 I’m currently learning Angular and React
 - 📫 How to reach me mazuttimail@gmail.com
 - I am also actively looking for a job/internship in Rio. My specialty includes Web and Mobile development.
-
-- Graduated in Social Communication with more than 10 years of experience in the hotel sector, 
-🎲 I reinvented myself and today I seek new knowledge in the technological area. 
-✨ Passionate about programming languages ​​and new technologies. 
-🎯 Currently I'm mainly interested in getting my first job as a frontend developer 
-📚 and improving myself more and more in the study of HTML, CSS, Javascript 
-and their main frameworks Angular and React.
 ###
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -45,8 +36,12 @@ and their main frameworks Angular and React.
 
 ###
 
-<img src="https://raw.githubusercontent.com/MazuttiGuilherme/MazuttiGuilherme/output/snake.svg" alt="Snake animation" />
-
+- Graduated in Social Communication with more than 10 years of experience in the hotel sector, 
+🎲 I reinvented myself and today I seek new knowledge in the technological area. 
+✨ Passionate about programming languages ​​and new technologies. 
+🎯 Currently I'm mainly interested in getting my first job as a frontend developer 
+📚 and improving myself more and more in the study of HTML, CSS, Javascript 
+and their main frameworks Angular and React.
 ###
 
 <div align="center">
