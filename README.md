@@ -11,13 +11,6 @@
 🎯 Currently I'm mainly interested in getting my first job as a frontend developer 
 📚 and improving myself more and more in the study of HTML, CSS, Javascript 
 and their main frameworks Angular and React.
-I code with
-<h1 align="left">Hey 👋 Hello World</h1>
-
-###
-
-<p align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</p>
-
 ###
 
 <h2 align="left">I code with</h2>
