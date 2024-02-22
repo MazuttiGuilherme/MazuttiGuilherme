@@ -35,7 +35,7 @@
 
 ###
 
-- Graduated in Social Communication with more than 10 years of experience in the hotel sector, 
+Graduated in Social Communication with more than 10 years of experience in the hotel sector, 
 🎲 I reinvented myself and today I seek new knowledge in the technological area. 
 ✨ Passionate about programming languages ​​and new technologies. 
 🎯 Currently I'm mainly interested in getting my first job as a frontend developer 
