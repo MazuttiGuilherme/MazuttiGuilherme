@@ -12,14 +12,114 @@ Hello World!
 📚 and improving myself more and more in the study of HTML, CSS, Javascript 
 and their main frameworks Angular and React.
 I code with
-<ul> 
-![git-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/b2a24029-0534-4a80-bfbe-30fd3672502b)
-![html5-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/76588fb8-21d4-49f2-adc1-b8a758c70401)
-![css3-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/c305b992-9504-4a65-b774-65f21c329388)
-![javascript-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/91677967-66a0-4b6d-8a61-de4333d368be)
-![react-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/a3322bf7-9846-4fd4-83a2-341bd033c4b3)
-![angularjs-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/9c6be122-17e5-4c61-8904-ef4283e03202)
-![nodejs-original](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/21a9fe03-5667-4075-ad55-6dee078b3d41)
-![api](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/53baf9b7-ab5f-4ada-ba9f-fbc2c4aea537)
-![top-langs](https://github.com/MazuttiGuilherme/MazuttiGuilherme/assets/91494392/215cb8b7-ab6d-45c0-8a2c-e6db752d8480)
-</ul>
+<h1 align="left">Hey 👋 Hello World</h1>
+
+###
+
+<p align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</p>
+
+###
+
+<h6 align="left">Graduated in Social Communication with more than 10 years of experience in the hotel sector, I reinvented myself and today I seek new knowledge in the technological area. Passionate about programming languages ​​and new technologies. Currently I'm mainly interested in getting my first job as a frontend developer and improving myself more and more in the study of HTML, CSS, Javascript and their main frameworks Angular and React.</h6>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazuttiGuilherme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazuttiGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazuttiGuilherme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazuttiGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MazuttiGuilherme/MazuttiGuilherme/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MazuttiGuilherme/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MazuttiGuilherme/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
