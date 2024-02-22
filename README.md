@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Hello World</h1>
+<h1 align="left">Hey 👋 Hello World!</h1>
 <h3 align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</h3>
 Graduated in Social Communication with more than 10 years of experience in the hotel sector, 
 🎲 I reinvented myself and today I seek new knowledge in the technological area. 
