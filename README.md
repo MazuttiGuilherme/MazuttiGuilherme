@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 Hello World</h1>
-<p align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</p>
+<h3 align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</h3>
 - 👀 I’m interested in code, technology, jiu-jitsu, life, coffee and everything...
 - 🌱 I’m currently learning Angular and React
 - 📫 How to reach me mazuttimail@gmail.com
