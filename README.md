@@ -2,8 +2,8 @@
 <h3 align="left">My name is Guilherme Mazutti and I'm a Frontend Developer from Rio de Janeiro</h3>
 - 👀 I’m interested in code, technology, jiu-jitsu, life, coffee and everything...
 - 🌱 I’m currently learning Angular and React
-- 📫 How to reach me mazuttimail@gmail.com
-- I am also actively looking for a job/internship in Rio. My specialty includes Web and Mobile development.
+- 📫 You can contact me by visiting my website https://guilhermemazutti.netlify.app/ or via email mazuttimail@gmail.com
+- 🎯  I am also actively looking for a job/internship in Rio.
 
 <h2 align="left">I code with</h2>
 
